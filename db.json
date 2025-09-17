@@ -1,4 +1,4 @@
-"arr":[{"districtName":"Nichols","courseEnrolled":92065,"courseCompleted":27406,"activeUsers":211579},
+{"arr":[{"districtName":"Nichols","courseEnrolled":92065,"courseCompleted":27406,"activeUsers":211579},
 {"districtName":"Wade","courseEnrolled":17038,"courseCompleted":66478,"activeUsers":374324},
 {"districtName":"Ellswerth","courseEnrolled":26286,"courseCompleted":31824,"activeUsers":142540},
 {"districtName":"Alessandra","courseEnrolled":14356,"courseCompleted":57692,"activeUsers":156001},
@@ -24,4 +24,4 @@
 {"districtName":"Eydie","courseEnrolled":6978,"courseCompleted":42918,"activeUsers":382384},
 {"districtName":"Guenna","courseEnrolled":67849,"courseCompleted":85654,"activeUsers":780164},
 {"districtName":"Millard","courseEnrolled":90061,"courseCompleted":58084,"activeUsers":9030},
-{"districtName":"Derron","courseEnrolled":96628,"courseCompleted":61881,"activeUsers":44372}]
+{"districtName":"Derron","courseEnrolled":96628,"courseCompleted":61881,"activeUsers":44372}]}
